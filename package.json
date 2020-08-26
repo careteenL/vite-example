@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
+    "dev:my": "careteen-vite",
     "build": "vite build"
   },
   "dependencies": {
